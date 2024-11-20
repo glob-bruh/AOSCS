@@ -1,7 +1,7 @@
-# AOSCS
-
 ![AOSCS Logo](aoscsLogo.png)
 
 Advanced Open-Source Certification System
 
-In development. 
+In development:
+- [ ] Webpage Finsihed.
+- [ ] Initial Policy Written. 
