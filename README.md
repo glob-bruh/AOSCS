@@ -4,7 +4,8 @@ Advanced Open-Source Certification System
 
 In development:
 - [ ] Project Finished.
-  - [x] Core webpage built.
+  - [ ] Homepage Built.
+  - [x] Rating and Scoring Webpage Built.
   - [x] OARS compatibility.
   - [ ] Scoring system developed.
   - [ ] Initial Policy Written.
@@ -13,6 +14,9 @@ In development:
     - [ ] Content Descriptors.
       - [x] TIGRS Descriptors.
       - [x] OGRS Descriptors. 
+      - [ ] Miscellaneous Descriptors.
     - [ ] Scoring Guidelines and Formula.
     - [ ] Supporting Documentation.
+    - [ ] Passed Final Policy Review. 
   - [ ] Final v1 Policy Integrated Into Webpage. 
+  - [ ] Passed Final Review.
