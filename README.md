@@ -6,7 +6,6 @@ In development:
 - [ ] Project Finished.
   - [ ] Homepage Built.
   - [x] Rating and Scoring Webpage Built.
-  - [x] OARS compatibility.
   - [ ] Scoring system developed.
   - [ ] Initial Policy Written.
     - [x] History of Previous Systems.
